@@ -1,0 +1,19 @@
+Here is how you set it up
+
+First unzip the file, once that's done, open the terminal and change directory into 
+$cd (wherever the file is)
+$cd devChallenge
+$cd project1
+$npm install
+
+Once everything is installed, run the application by running the command below
+
+$npm start
+
+The application should start in http://localhost:3000/. If there is an error, it is likely there is 
+another application running on that port/server. So it'll ask if you want it to run on http://localhost:3001/
+In that case say yes
+
+If there is any question let me know!
+
+
